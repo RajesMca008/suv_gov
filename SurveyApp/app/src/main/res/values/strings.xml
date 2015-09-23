@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Property Survey</string>
+    
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string name="user">User Name</string>
+
+    <string name="home_title">Select Desired Action</string>
+
+    <string name="repeat_button">Clear</string>
+    <string name="retun_button">Save</string>
+
+    <string name="lot_num">Lot No:</string>
+    <string name="dite_no">Dite No:</string>
+    <string name="loc">Loc:</string>
+    <string name="lot_ow">Lot owner:</string>
+    <string name="units_mov">Units Moved:</string>
+    <string name="adjust_check">Cycle count adjustment</string>
+    <string name="strDialogMsg">Do you want to exit App ?</string>
+    <string name="network_error">Please check internet status.</string>
+    <string name="login_error">Login failed.</string>
+
+    <string-array name="system_array">
+        <item>Test</item>
+
+    </string-array>
+    <string name="title_activity_custom_list_view">CustomListViewActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_look_up_main">LookUpMainActivity</string>
+    <string name="title_activity_move">MoveActivity</string>
+    <string name="loading">Loading…</string>
+    <string name="title_activity_diet_pull">DietPullActivity</string>
+    <string name="title_activity_dispose">DisposeActivity</string>
+    <string name="title_activity_diet_info">Diet details</string>
+    <string name="title_activity_complete_details">CompleteDetailsActivity</string>
+    <string name="title_activity_adjust_lot">AdjustLotActivity</string>
+    <string name="title_activity_dispose_lot">DisposeLotActivity</string>
+    <string name="title_activity_diet_pull_lot">DietPullLotActivity</string>
+    <string name="reason_error">Please select reason!</string>
+</resources>
